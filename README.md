@@ -1,15 +1,9 @@
-# GitHub-Tutorial-Template
+# GitHub-Tutorial
 *Author: [Eric Udlis](http://ericudlis.com)*
 
 This Tutorial is based on the one from [hubspot](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
-This is a template Repo to teach the basics of contributing to a repository in Badgerloop
-
-# How to Use This Guide
-
-Click the "Use this template" button in the top row to copy this readme over to a new repository. Follow the instructions below and enjoy!
-
-**If the top left of your repository screen says badgerloop-software/github-tutorial-template you have not properly created a template. Do not make any pull requests to this repository**
+This is a Repo to teach the basics of contributing to a repository in Badgerloop
 
 # Instructions (Start Here)
 
